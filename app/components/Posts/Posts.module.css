@@ -1,0 +1,11 @@
+.post {
+  /* Styling for individual posts */
+  text-align: center;
+  padding: 10px;
+  border-radius: 12px;
+  
+
+  border: 2px solid rgb(167, 182, 226);
+  margin: 1rem;
+
+}

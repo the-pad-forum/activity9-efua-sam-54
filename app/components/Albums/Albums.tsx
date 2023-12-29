@@ -1,6 +1,8 @@
 import React, { useState, useEffect, FC } from 'react';
 import styles from './Albums.module.css';
 
+
+
 interface Album {
   userId: number;
   id: number;
